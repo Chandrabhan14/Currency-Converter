@@ -6,3 +6,9 @@ This repository contains a basic currency converter implemented in JavaScript. T
 Basic Currency Converter in JavaScript
 
 ![Uploading Screenshot 2023-12-04 040239.png…]()
+
+Features
+Convert between different currencies using the latest exchange rates.
+Real-time updates based on live exchange rates.
+User-friendly interface for easy conversion.
+
